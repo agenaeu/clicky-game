@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Memorization Game
+
+Don't click the same picture twice!
+
 ## Available Scripts
 
 In the project directory, you can run:
